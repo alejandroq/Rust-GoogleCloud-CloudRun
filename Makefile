@@ -2,7 +2,7 @@
 start:
 	RUST_LOG="actix_web=info" cargo run
 
-CONTAINER_IMAGE := gcr.io/mocolith/paperboy
+CONTAINER_IMAGE := gcr.io/PROJECT-ID/rust-googlecloud-cloudrun
 .PHONY: deploy
 deploy:
 	docker build -t ${CONTAINER_IMAGE} .
