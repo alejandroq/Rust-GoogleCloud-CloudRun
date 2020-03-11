@@ -1,0 +1,223 @@
+drill --benchmark benchmark.yml --stats
+Threads 4
+Iterations 50
+Rampup 2
+Base URL <was a cloud run url>
+
+General Performance Check <was a cloud run url> 200 OK 298ms
+General Performance Check <was a cloud run url> 200 OK 306ms
+General Performance Check <was a cloud run url> 200 OK 332ms
+General Performance Check <was a cloud run url> 200 OK 352ms
+General Performance Check <was a cloud run url> 200 OK 158ms
+General Performance Check <was a cloud run url> 200 OK 166ms
+General Performance Check <was a cloud run url> 200 OK 151ms
+General Performance Check <was a cloud run url> 200 OK 253ms
+General Performance Check <was a cloud run url> 200 OK 265ms
+General Performance Check <was a cloud run url> 200 OK 182ms
+General Performance Check <was a cloud run url> 200 OK 321ms
+General Performance Check <was a cloud run url> 200 OK 323ms
+General Performance Check <was a cloud run url> 200 OK 149ms
+General Performance Check <was a cloud run url> 200 OK 176ms
+General Performance Check <was a cloud run url> 200 OK 194ms
+General Performance Check <was a cloud run url> 200 OK 200ms
+General Performance Check <was a cloud run url> 200 OK 118ms
+General Performance Check <was a cloud run url> 200 OK 93ms
+General Performance Check <was a cloud run url> 200 OK 116ms
+General Performance Check <was a cloud run url> 200 OK 112ms
+General Performance Check <was a cloud run url> 200 OK 123ms
+General Performance Check <was a cloud run url> 200 OK 116ms
+General Performance Check <was a cloud run url> 200 OK 116ms
+General Performance Check <was a cloud run url> 200 OK 138ms
+General Performance Check <was a cloud run url> 200 OK 137ms
+General Performance Check <was a cloud run url> 200 OK 150ms
+General Performance Check <was a cloud run url> 200 OK 538ms
+General Performance Check <was a cloud run url> 200 OK 506ms
+General Performance Check <was a cloud run url> 200 OK 145ms
+General Performance Check <was a cloud run url> 200 OK 173ms
+General Performance Check <was a cloud run url> 200 OK 200ms
+General Performance Check <was a cloud run url> 200 OK 185ms
+General Performance Check <was a cloud run url> 200 OK 149ms
+General Performance Check <was a cloud run url> 200 OK 170ms
+General Performance Check <was a cloud run url> 200 OK 177ms
+General Performance Check <was a cloud run url> 200 OK 184ms
+General Performance Check <was a cloud run url> 200 OK 128ms
+General Performance Check <was a cloud run url> 200 OK 129ms
+General Performance Check <was a cloud run url> 200 OK 338ms
+General Performance Check <was a cloud run url> 200 OK 339ms
+General Performance Check <was a cloud run url> 200 OK 1683ms
+General Performance Check <was a cloud run url> 200 OK 129ms
+General Performance Check <was a cloud run url> 200 OK 156ms
+General Performance Check <was a cloud run url> 200 OK 139ms
+General Performance Check <was a cloud run url> 200 OK 116ms
+General Performance Check <was a cloud run url> 200 OK 2279ms
+General Performance Check <was a cloud run url> 200 OK 177ms
+General Performance Check <was a cloud run url> 200 OK 222ms
+General Performance Check <was a cloud run url> 200 OK 228ms
+General Performance Check <was a cloud run url> 200 OK 191ms
+General Performance Check <was a cloud run url> 200 OK 134ms
+General Performance Check <was a cloud run url> 200 OK 143ms
+General Performance Check <was a cloud run url> 200 OK 573ms
+General Performance Check <was a cloud run url> 200 OK 429ms
+General Performance Check <was a cloud run url> 200 OK 575ms
+General Performance Check <was a cloud run url> 200 OK 693ms
+General Performance Check <was a cloud run url> 200 OK 449ms
+General Performance Check <was a cloud run url> 200 OK 283ms
+General Performance Check <was a cloud run url> 200 OK 229ms
+General Performance Check <was a cloud run url> 200 OK 170ms
+General Performance Check <was a cloud run url> 200 OK 168ms
+General Performance Check <was a cloud run url> 200 OK 177ms
+General Performance Check <was a cloud run url> 200 OK 206ms
+General Performance Check <was a cloud run url> 200 OK 145ms
+General Performance Check <was a cloud run url> 200 OK 126ms
+General Performance Check <was a cloud run url> 200 OK 107ms
+General Performance Check <was a cloud run url> 200 OK 249ms
+General Performance Check <was a cloud run url> 200 OK 250ms
+General Performance Check <was a cloud run url> 200 OK 251ms
+General Performance Check <was a cloud run url> 200 OK 329ms
+General Performance Check <was a cloud run url> 200 OK 275ms
+General Performance Check <was a cloud run url> 200 OK 296ms
+General Performance Check <was a cloud run url> 200 OK 296ms
+General Performance Check <was a cloud run url> 200 OK 165ms
+General Performance Check <was a cloud run url> 200 OK 153ms
+General Performance Check <was a cloud run url> 200 OK 260ms
+General Performance Check <was a cloud run url> 200 OK 241ms
+General Performance Check <was a cloud run url> 200 OK 196ms
+General Performance Check <was a cloud run url> 200 OK 224ms
+General Performance Check <was a cloud run url> 200 OK 246ms
+General Performance Check <was a cloud run url> 200 OK 159ms
+General Performance Check <was a cloud run url> 200 OK 146ms
+General Performance Check <was a cloud run url> 200 OK 167ms
+General Performance Check <was a cloud run url> 200 OK 137ms
+General Performance Check <was a cloud run url> 200 OK 136ms
+General Performance Check <was a cloud run url> 200 OK 140ms
+General Performance Check <was a cloud run url> 200 OK 110ms
+General Performance Check <was a cloud run url> 200 OK 154ms
+General Performance Check <was a cloud run url> 200 OK 182ms
+General Performance Check <was a cloud run url> 200 OK 177ms
+General Performance Check <was a cloud run url> 200 OK 160ms
+General Performance Check <was a cloud run url> 200 OK 80ms
+General Performance Check <was a cloud run url> 200 OK 154ms
+General Performance Check <was a cloud run url> 200 OK 385ms
+General Performance Check <was a cloud run url> 200 OK 385ms
+General Performance Check <was a cloud run url> 200 OK 298ms
+General Performance Check <was a cloud run url> 200 OK 204ms
+General Performance Check <was a cloud run url> 200 OK 153ms
+General Performance Check <was a cloud run url> 200 OK 205ms
+General Performance Check <was a cloud run url> 200 OK 1687ms
+General Performance Check <was a cloud run url> 200 OK 102ms
+General Performance Check <was a cloud run url> 200 OK 111ms
+General Performance Check <was a cloud run url> 200 OK 124ms
+General Performance Check <was a cloud run url> 200 OK 166ms
+General Performance Check <was a cloud run url> 200 OK 153ms
+General Performance Check <was a cloud run url> 200 OK 182ms
+General Performance Check <was a cloud run url> 200 OK 247ms
+General Performance Check <was a cloud run url> 200 OK 247ms
+General Performance Check <was a cloud run url> 200 OK 316ms
+General Performance Check <was a cloud run url> 200 OK 290ms
+General Performance Check <was a cloud run url> 200 OK 291ms
+General Performance Check <was a cloud run url> 200 OK 779ms
+General Performance Check <was a cloud run url> 200 OK 236ms
+General Performance Check <was a cloud run url> 200 OK 134ms
+General Performance Check <was a cloud run url> 200 OK 182ms
+General Performance Check <was a cloud run url> 200 OK 244ms
+General Performance Check <was a cloud run url> 200 OK 204ms
+General Performance Check <was a cloud run url> 200 OK 157ms
+General Performance Check <was a cloud run url> 200 OK 149ms
+General Performance Check <was a cloud run url> 200 OK 119ms
+General Performance Check <was a cloud run url> 200 OK 100ms
+General Performance Check <was a cloud run url> 200 OK 116ms
+General Performance Check <was a cloud run url> 200 OK 125ms
+General Performance Check <was a cloud run url> 200 OK 153ms
+General Performance Check <was a cloud run url> 200 OK 178ms
+General Performance Check <was a cloud run url> 200 OK 225ms
+General Performance Check <was a cloud run url> 200 OK 143ms
+General Performance Check <was a cloud run url> 200 OK 234ms
+General Performance Check <was a cloud run url> 200 OK 157ms
+General Performance Check <was a cloud run url> 200 OK 138ms
+General Performance Check <was a cloud run url> 200 OK 180ms
+General Performance Check <was a cloud run url> 200 OK 118ms
+General Performance Check <was a cloud run url> 200 OK 498ms
+General Performance Check <was a cloud run url> 200 OK 471ms
+General Performance Check <was a cloud run url> 200 OK 135ms
+General Performance Check <was a cloud run url> 200 OK 164ms
+General Performance Check <was a cloud run url> 200 OK 180ms
+General Performance Check <was a cloud run url> 200 OK 542ms
+General Performance Check <was a cloud run url> 200 OK 1260ms
+General Performance Check <was a cloud run url> 200 OK 2393ms
+General Performance Check <was a cloud run url> 200 OK 352ms
+General Performance Check <was a cloud run url> 200 OK 449ms
+General Performance Check <was a cloud run url> 200 OK 428ms
+General Performance Check <was a cloud run url> 200 OK 1198ms
+General Performance Check <was a cloud run url> 200 OK 113ms
+General Performance Check <was a cloud run url> 200 OK 140ms
+General Performance Check <was a cloud run url> 200 OK 129ms
+General Performance Check <was a cloud run url> 200 OK 122ms
+General Performance Check <was a cloud run url> 200 OK 114ms
+General Performance Check <was a cloud run url> 200 OK 130ms
+General Performance Check <was a cloud run url> 200 OK 129ms
+General Performance Check <was a cloud run url> 200 OK 98ms
+General Performance Check <was a cloud run url> 200 OK 197ms
+General Performance Check <was a cloud run url> 200 OK 210ms
+General Performance Check <was a cloud run url> 200 OK 227ms
+General Performance Check <was a cloud run url> 200 OK 164ms
+General Performance Check <was a cloud run url> 200 OK 135ms
+General Performance Check <was a cloud run url> 200 OK 120ms
+General Performance Check <was a cloud run url> 200 OK 173ms
+General Performance Check <was a cloud run url> 200 OK 171ms
+General Performance Check <was a cloud run url> 200 OK 611ms
+General Performance Check <was a cloud run url> 200 OK 741ms
+General Performance Check <was a cloud run url> 200 OK 130ms
+General Performance Check <was a cloud run url> 200 OK 118ms
+General Performance Check <was a cloud run url> 200 OK 120ms
+General Performance Check <was a cloud run url> 200 OK 98ms
+General Performance Check <was a cloud run url> 200 OK 184ms
+General Performance Check <was a cloud run url> 200 OK 1294ms
+General Performance Check <was a cloud run url> 200 OK 1388ms
+General Performance Check <was a cloud run url> 200 OK 284ms
+General Performance Check <was a cloud run url> 200 OK 242ms
+General Performance Check <was a cloud run url> 200 OK 282ms
+General Performance Check <was a cloud run url> 200 OK 284ms
+General Performance Check <was a cloud run url> 200 OK 171ms
+General Performance Check <was a cloud run url> 200 OK 170ms
+General Performance Check <was a cloud run url> 200 OK 180ms
+General Performance Check <was a cloud run url> 200 OK 127ms
+General Performance Check <was a cloud run url> 200 OK 120ms
+General Performance Check <was a cloud run url> 200 OK 112ms
+General Performance Check <was a cloud run url> 200 OK 233ms
+General Performance Check <was a cloud run url> 200 OK 187ms
+General Performance Check <was a cloud run url> 200 OK 199ms
+General Performance Check <was a cloud run url> 200 OK 176ms
+General Performance Check <was a cloud run url> 200 OK 590ms
+General Performance Check <was a cloud run url> 200 OK 697ms
+General Performance Check <was a cloud run url> 200 OK 136ms
+General Performance Check <was a cloud run url> 200 OK 283ms
+General Performance Check <was a cloud run url> 200 OK 175ms
+General Performance Check <was a cloud run url> 200 OK 528ms
+General Performance Check <was a cloud run url> 200 OK 242ms
+General Performance Check <was a cloud run url> 200 OK 258ms
+General Performance Check <was a cloud run url> 200 OK 154ms
+General Performance Check <was a cloud run url> 200 OK 183ms
+General Performance Check <was a cloud run url> 200 OK 128ms
+General Performance Check <was a cloud run url> 200 OK 171ms
+General Performance Check <was a cloud run url> 200 OK 643ms
+General Performance Check <was a cloud run url> 200 OK 230ms
+General Performance Check <was a cloud run url> 200 OK 165ms
+General Performance Check <was a cloud run url> 200 OK 1189ms
+General Performance Check <was a cloud run url> 200 OK 165ms
+
+General Performance Check Total requests            200
+General Performance Check Successful requests       200
+General Performance Check Failed requests           0
+General Performance Check Median time per request   180ms
+General Performance Check Average time per request  286ms
+General Performance Check Sample standard deviation 326ms
+
+Concurrency Level         4
+Time taken for tests      18.2 seconds
+Total requests            200
+Successful requests       200
+Failed requests           0
+Requests per second       11.00 [#/sec]
+Median time per request   180ms
+Average time per request  286ms
+Sample standard deviation 326ms

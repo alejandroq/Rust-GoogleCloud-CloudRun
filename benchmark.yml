@@ -1,0 +1,9 @@
+threads: 4
+base: <replace with cloud run url>
+iterations: 50
+rampup: 2
+
+plan:
+    - name: General Performance Check
+      request:
+        url: /

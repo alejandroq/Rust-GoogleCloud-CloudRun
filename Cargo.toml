@@ -1,0 +1,14 @@
+[package]
+name = "paperboy"
+version = "0.1.0"
+authors = ["alejandroq <quesadaaba@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-rt = "1.0.0"
+actix-web = "2.0.0"
+actix-server = "1.0.2"
+actix-service = "1.0.5"
+serde = "1.0.104"
+log = "0.4.0"
+env_logger = "0.7.1"
