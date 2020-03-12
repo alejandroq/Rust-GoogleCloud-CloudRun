@@ -1,0 +1,224 @@
+➜  paperboy git:(master) ✗ make benchmark
+drill --benchmark benchmark.yml --stats
+Threads 4
+Iterations 50
+Rampup 2
+Base URL <url censored>
+
+General Performance Check <url censored> 200 OK 345ms
+General Performance Check <url censored> 200 OK 350ms
+General Performance Check <url censored> 200 OK 350ms
+General Performance Check <url censored> 200 OK 355ms
+General Performance Check <url censored> 200 OK 157ms
+General Performance Check <url censored> 200 OK 152ms
+General Performance Check <url censored> 200 OK 152ms
+General Performance Check <url censored> 200 OK 186ms
+General Performance Check <url censored> 200 OK 205ms
+General Performance Check <url censored> 200 OK 205ms
+General Performance Check <url censored> 200 OK 205ms
+General Performance Check <url censored> 200 OK 176ms
+General Performance Check <url censored> 200 OK 115ms
+General Performance Check <url censored> 200 OK 126ms
+General Performance Check <url censored> 200 OK 126ms
+General Performance Check <url censored> 200 OK 127ms
+General Performance Check <url censored> 200 OK 213ms
+General Performance Check <url censored> 200 OK 211ms
+General Performance Check <url censored> 200 OK 247ms
+General Performance Check <url censored> 200 OK 247ms
+General Performance Check <url censored> 200 OK 187ms
+General Performance Check <url censored> 200 OK 188ms
+General Performance Check <url censored> 200 OK 189ms
+General Performance Check <url censored> 200 OK 189ms
+General Performance Check <url censored> 200 OK 196ms
+General Performance Check <url censored> 200 OK 233ms
+General Performance Check <url censored> 200 OK 233ms
+General Performance Check <url censored> 200 OK 197ms
+General Performance Check <url censored> 200 OK 230ms
+General Performance Check <url censored> 200 OK 232ms
+General Performance Check <url censored> 200 OK 231ms
+General Performance Check <url censored> 200 OK 231ms
+General Performance Check <url censored> 200 OK 232ms
+General Performance Check <url censored> 200 OK 232ms
+General Performance Check <url censored> 200 OK 232ms
+General Performance Check <url censored> 200 OK 233ms
+General Performance Check <url censored> 200 OK 162ms
+General Performance Check <url censored> 200 OK 166ms
+General Performance Check <url censored> 200 OK 166ms
+General Performance Check <url censored> 200 OK 166ms
+General Performance Check <url censored> 200 OK 140ms
+General Performance Check <url censored> 200 OK 168ms
+General Performance Check <url censored> 200 OK 170ms
+General Performance Check <url censored> 200 OK 188ms
+General Performance Check <url censored> 200 OK 181ms
+General Performance Check <url censored> 200 OK 189ms
+General Performance Check <url censored> 200 OK 188ms
+General Performance Check <url censored> 200 OK 224ms
+General Performance Check <url censored> 200 OK 222ms
+General Performance Check <url censored> 200 OK 235ms
+General Performance Check <url censored> 200 OK 235ms
+General Performance Check <url censored> 200 OK 245ms
+General Performance Check <url censored> 200 OK 264ms
+General Performance Check <url censored> 200 OK 217ms
+General Performance Check <url censored> 200 OK 216ms
+General Performance Check <url censored> 200 OK 233ms
+General Performance Check <url censored> 200 OK 155ms
+General Performance Check <url censored> 200 OK 161ms
+General Performance Check <url censored> 200 OK 157ms
+General Performance Check <url censored> 200 OK 145ms
+General Performance Check <url censored> 200 OK 160ms
+General Performance Check <url censored> 200 OK 159ms
+General Performance Check <url censored> 200 OK 167ms
+General Performance Check <url censored> 200 OK 182ms
+General Performance Check <url censored> 200 OK 174ms
+General Performance Check <url censored> 200 OK 174ms
+General Performance Check <url censored> 200 OK 169ms
+General Performance Check <url censored> 200 OK 176ms
+General Performance Check <url censored> 200 OK 277ms
+General Performance Check <url censored> 200 OK 278ms
+General Performance Check <url censored> 200 OK 279ms
+General Performance Check <url censored> 200 OK 245ms
+General Performance Check <url censored> 200 OK 283ms
+General Performance Check <url censored> 200 OK 284ms
+General Performance Check <url censored> 200 OK 295ms
+General Performance Check <url censored> 200 OK 354ms
+General Performance Check <url censored> 200 OK 174ms
+General Performance Check <url censored> 200 OK 176ms
+General Performance Check <url censored> 200 OK 262ms
+General Performance Check <url censored> 200 OK 263ms
+General Performance Check <url censored> 200 OK 171ms
+General Performance Check <url censored> 200 OK 171ms
+General Performance Check <url censored> 200 OK 174ms
+General Performance Check <url censored> 200 OK 208ms
+General Performance Check <url censored> 200 OK 116ms
+General Performance Check <url censored> 200 OK 135ms
+General Performance Check <url censored> 200 OK 150ms
+General Performance Check <url censored> 200 OK 151ms
+General Performance Check <url censored> 200 OK 149ms
+General Performance Check <url censored> 200 OK 175ms
+General Performance Check <url censored> 200 OK 192ms
+General Performance Check <url censored> 200 OK 183ms
+General Performance Check <url censored> 200 OK 207ms
+General Performance Check <url censored> 200 OK 182ms
+General Performance Check <url censored> 200 OK 151ms
+General Performance Check <url censored> 200 OK 215ms
+General Performance Check <url censored> 200 OK 179ms
+General Performance Check <url censored> 200 OK 214ms
+General Performance Check <url censored> 200 OK 247ms
+General Performance Check <url censored> 200 OK 286ms
+General Performance Check <url censored> 200 OK 239ms
+General Performance Check <url censored> 200 OK 230ms
+General Performance Check <url censored> 200 OK 175ms
+General Performance Check <url censored> 200 OK 156ms
+General Performance Check <url censored> 200 OK 174ms
+General Performance Check <url censored> 200 OK 158ms
+General Performance Check <url censored> 200 OK 159ms
+General Performance Check <url censored> 200 OK 174ms
+General Performance Check <url censored> 200 OK 198ms
+General Performance Check <url censored> 200 OK 214ms
+General Performance Check <url censored> 200 OK 214ms
+General Performance Check <url censored> 200 OK 184ms
+General Performance Check <url censored> 200 OK 197ms
+General Performance Check <url censored> 200 OK 1105ms
+General Performance Check <url censored> 200 OK 1217ms
+General Performance Check <url censored> 200 OK 1086ms
+General Performance Check <url censored> 200 OK 1217ms
+General Performance Check <url censored> 200 OK 156ms
+General Performance Check <url censored> 200 OK 159ms
+General Performance Check <url censored> 200 OK 159ms
+General Performance Check <url censored> 200 OK 184ms
+General Performance Check <url censored> 200 OK 193ms
+General Performance Check <url censored> 200 OK 183ms
+General Performance Check <url censored> 200 OK 209ms
+General Performance Check <url censored> 200 OK 264ms
+General Performance Check <url censored> 200 OK 192ms
+General Performance Check <url censored> 200 OK 233ms
+General Performance Check <url censored> 200 OK 265ms
+General Performance Check <url censored> 200 OK 212ms
+General Performance Check <url censored> 200 OK 245ms
+General Performance Check <url censored> 200 OK 177ms
+General Performance Check <url censored> 200 OK 734ms
+General Performance Check <url censored> 200 OK 179ms
+General Performance Check <url censored> 200 OK 186ms
+General Performance Check <url censored> 200 OK 758ms
+General Performance Check <url censored> 200 OK 254ms
+General Performance Check <url censored> 200 OK 264ms
+General Performance Check <url censored> 200 OK 908ms
+General Performance Check <url censored> 200 OK 309ms
+General Performance Check <url censored> 200 OK 211ms
+General Performance Check <url censored> 200 OK 216ms
+General Performance Check <url censored> 200 OK 228ms
+General Performance Check <url censored> 200 OK 762ms
+General Performance Check <url censored> 200 OK 250ms
+General Performance Check <url censored> 200 OK 184ms
+General Performance Check <url censored> 200 OK 159ms
+General Performance Check <url censored> 200 OK 544ms
+General Performance Check <url censored> 200 OK 194ms
+General Performance Check <url censored> 200 OK 667ms
+General Performance Check <url censored> 200 OK 120ms
+General Performance Check <url censored> 200 OK 222ms
+General Performance Check <url censored> 200 OK 212ms
+General Performance Check <url censored> 200 OK 747ms
+General Performance Check <url censored> 200 OK 956ms
+General Performance Check <url censored> 200 OK 213ms
+General Performance Check <url censored> 200 OK 215ms
+General Performance Check <url censored> 200 OK 280ms
+General Performance Check <url censored> 200 OK 313ms
+General Performance Check <url censored> 200 OK 218ms
+General Performance Check <url censored> 200 OK 235ms
+General Performance Check <url censored> 200 OK 287ms
+General Performance Check <url censored> 200 OK 459ms
+General Performance Check <url censored> 200 OK 207ms
+General Performance Check <url censored> 200 OK 173ms
+General Performance Check <url censored> 200 OK 281ms
+General Performance Check <url censored> 200 OK 132ms
+General Performance Check <url censored> 200 OK 224ms
+General Performance Check <url censored> 200 OK 316ms
+General Performance Check <url censored> 200 OK 291ms
+General Performance Check <url censored> 200 OK 270ms
+General Performance Check <url censored> 200 OK 193ms
+General Performance Check <url censored> 200 OK 205ms
+General Performance Check <url censored> 200 OK 641ms
+General Performance Check <url censored> 200 OK 277ms
+General Performance Check <url censored> 200 OK 217ms
+General Performance Check <url censored> 200 OK 246ms
+General Performance Check <url censored> 200 OK 179ms
+General Performance Check <url censored> 200 OK 153ms
+General Performance Check <url censored> 200 OK 138ms
+General Performance Check <url censored> 200 OK 196ms
+General Performance Check <url censored> 200 OK 111ms
+General Performance Check <url censored> 200 OK 117ms
+General Performance Check <url censored> 200 OK 141ms
+General Performance Check <url censored> 200 OK 142ms
+General Performance Check <url censored> 200 OK 171ms
+General Performance Check <url censored> 200 OK 156ms
+General Performance Check <url censored> 200 OK 126ms
+General Performance Check <url censored> 200 OK 172ms
+General Performance Check <url censored> 200 OK 156ms
+General Performance Check <url censored> 200 OK 195ms
+General Performance Check <url censored> 200 OK 160ms
+General Performance Check <url censored> 200 OK 181ms
+General Performance Check <url censored> 200 OK 156ms
+General Performance Check <url censored> 200 OK 175ms
+General Performance Check <url censored> 200 OK 268ms
+General Performance Check <url censored> 200 OK 285ms
+General Performance Check <url censored> 200 OK 233ms
+General Performance Check <url censored> 200 OK 160ms
+General Performance Check <url censored> 200 OK 197ms
+General Performance Check <url censored> 200 OK 181ms
+
+General Performance Check Total requests            200
+General Performance Check Successful requests       200
+General Performance Check Failed requests           0
+General Performance Check Median time per request   198ms
+General Performance Check Average time per request  249ms
+General Performance Check Sample standard deviation 181ms
+
+Concurrency Level         4
+Time taken for tests      12.8 seconds
+Total requests            200
+Successful requests       200
+Failed requests           0
+Requests per second       15.66 [#/sec]
+Median time per request   198ms
+Average time per request  249ms
+Sample standard deviation 181ms
